@@ -398,3 +398,4 @@ Define functions to return the answer to the following questions:
 Once you've finished your work, check out this
 [walkthrough video](https://www.youtube.com/watch?v=HfNBr1q1D9w) for an
 explanation.
+string of potato
